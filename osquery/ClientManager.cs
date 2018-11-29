@@ -10,8 +10,8 @@ public sealed class ClientManager {
 	/**
 	 * Default Unix domain socket.
 	 */
-	public static sealed string DEFAULT_SOCKET_PATH = "/var/osquery/osquery.em";
-	public static sealed string SHELL_SOCKET_PATH = System.getProperty("user.home") + "/.osquery/shell.em";
+	public static string DEFAULT_SOCKET_PATH = "/var/osquery/osquery.em";
+	public static string SHELL_SOCKET_PATH = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "/.osquery/shell.em";
 	
 	private string socketPath = null;
 	private TTransport transport;
