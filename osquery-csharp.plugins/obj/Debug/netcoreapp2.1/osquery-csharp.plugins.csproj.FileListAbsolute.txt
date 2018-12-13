@@ -1,0 +1,14 @@
+/home/saber/workspace/osquery-csharp.plugins/bin/Debug/netcoreapp2.1/osquery-csharp.plugins.deps.json
+/home/saber/workspace/osquery-csharp.plugins/bin/Debug/netcoreapp2.1/osquery-csharp.plugins.dll
+/home/saber/workspace/osquery-csharp.plugins/bin/Debug/netcoreapp2.1/osquery-csharp.plugins.pdb
+/home/saber/workspace/osquery-csharp.plugins/bin/Debug/netcoreapp2.1/osquery-csharp.dll
+/home/saber/workspace/osquery-csharp.plugins/bin/Debug/netcoreapp2.1/osquery-csharp.pdb
+/home/saber/workspace/osquery-csharp.plugins/obj/Debug/netcoreapp2.1/osquery-csharp.plugins.csprojAssemblyReference.cache
+/home/saber/workspace/osquery-csharp.plugins/obj/Debug/netcoreapp2.1/osquery-csharp.plugins.csproj.CoreCompileInputs.cache
+/home/saber/workspace/osquery-csharp.plugins/obj/Debug/netcoreapp2.1/osquery-csharp.plugins.AssemblyInfoInputs.cache
+/home/saber/workspace/osquery-csharp.plugins/obj/Debug/netcoreapp2.1/osquery-csharp.plugins.AssemblyInfo.cs
+/home/saber/workspace/osquery-csharp.plugins/obj/Debug/netcoreapp2.1/osquery-csharp.plugins.csproj.CopyComplete
+/home/saber/workspace/osquery-csharp.plugins/obj/Debug/netcoreapp2.1/osquery-csharp.plugins.dll
+/home/saber/workspace/osquery-csharp.plugins/obj/Debug/netcoreapp2.1/osquery-csharp.plugins.pdb
+/home/saber/workspace/osquery-csharp.plugins/bin/Debug/netcoreapp2.1/osquery-csharp.plugins.runtimeconfig.json
+/home/saber/workspace/osquery-csharp.plugins/bin/Debug/netcoreapp2.1/osquery-csharp.plugins.runtimeconfig.dev.json

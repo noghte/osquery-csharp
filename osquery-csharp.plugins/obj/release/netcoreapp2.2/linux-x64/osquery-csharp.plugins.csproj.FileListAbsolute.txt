@@ -1,0 +1,17 @@
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/libhostpolicy.so
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/libhostfxr.so
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.plugins
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.deps.json
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.runtimeconfig.json
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.runtimeconfig.dev.json
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.dll
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.pdb
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/osquery-csharp.dll
+/home/saber/workspace/osquery-csharp.plugins/bin/release/netcoreapp2.2/linux-x64/osquery-csharp.pdb
+/home/saber/workspace/osquery-csharp.plugins/obj/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.csprojAssemblyReference.cache
+/home/saber/workspace/osquery-csharp.plugins/obj/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.csproj.CoreCompileInputs.cache
+/home/saber/workspace/osquery-csharp.plugins/obj/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.AssemblyInfoInputs.cache
+/home/saber/workspace/osquery-csharp.plugins/obj/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.AssemblyInfo.cs
+/home/saber/workspace/osquery-csharp.plugins/obj/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.csproj.CopyComplete
+/home/saber/workspace/osquery-csharp.plugins/obj/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.dll
+/home/saber/workspace/osquery-csharp.plugins/obj/release/netcoreapp2.2/linux-x64/osquery-csharp.plugins.pdb
