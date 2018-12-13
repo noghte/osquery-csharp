@@ -1,0 +1,11 @@
+/home/saber/workspace/osquery-csharp/bin/release/netcoreapp2.2/osquery-csharp.deps.json
+/home/saber/workspace/osquery-csharp/bin/release/netcoreapp2.2/osquery-csharp.runtimeconfig.json
+/home/saber/workspace/osquery-csharp/bin/release/netcoreapp2.2/osquery-csharp.runtimeconfig.dev.json
+/home/saber/workspace/osquery-csharp/bin/release/netcoreapp2.2/osquery-csharp.dll
+/home/saber/workspace/osquery-csharp/bin/release/netcoreapp2.2/osquery-csharp.pdb
+/home/saber/workspace/osquery-csharp/obj/release/netcoreapp2.2/osquery-csharp.csprojAssemblyReference.cache
+/home/saber/workspace/osquery-csharp/obj/release/netcoreapp2.2/osquery-csharp.csproj.CoreCompileInputs.cache
+/home/saber/workspace/osquery-csharp/obj/release/netcoreapp2.2/osquery-csharp.AssemblyInfoInputs.cache
+/home/saber/workspace/osquery-csharp/obj/release/netcoreapp2.2/osquery-csharp.AssemblyInfo.cs
+/home/saber/workspace/osquery-csharp/obj/release/netcoreapp2.2/osquery-csharp.dll
+/home/saber/workspace/osquery-csharp/obj/release/netcoreapp2.2/osquery-csharp.pdb

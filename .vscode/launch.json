@@ -17,6 +17,7 @@
             "console": "internalConsole",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart"
+         
         },
         {
             "name": ".NET Core Attach",

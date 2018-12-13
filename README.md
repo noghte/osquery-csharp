@@ -53,7 +53,12 @@ public class MyTablePlugin: TablePlugin {
 	}
 }
 ```
-**To test this code start an osquery shell:**
+**To test this code publish the extension:**
+```
+dotnet publish -c release --self-contained --runtime linux-x64 --framework netcoreapp2.2
+```
+Then rename the excutable in /release/netcoreappX/linux-64/publish directory to .ext, for example: osquery-csharp.plugins.ext
+**Then start an osquery shell:**
 ```
 osqueryi --nodisable_extensions
 osquery> select value from osquery_flags where name = 'extensions_socket';
@@ -64,7 +69,7 @@ osquery> select value from osquery_flags where name = 'extensions_socket';
 
 **Then start the C# extension:**
 ```
-dotnet run -Dextension.socket=/Users/USERNAME/.osquery/shell.em MyTablePlugin.cs
+osqueryi --extension /path/to/publish/osquery-csharp.plugins.ext --allow-unsafe
 ```
 This will register a table called "mytable". As you can see, the table will
 return two rows:
@@ -86,5 +91,5 @@ Console.WriteLine("Running C# binding for osquery...");
 BasePlugin plugin = new MyTablePlugin();
 PluginManager pm = PluginManager.getInstance();
 pm.addPlugin(plugin);
-pm.startExtension("MyTablePlugin","0.0.1","2.2.1","2.2.1");
+pm.startExtension("MyTablePlugin", "0.0.1", "3.2.6", "3.2.6");
 ```
